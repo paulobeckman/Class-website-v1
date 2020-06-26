@@ -3,7 +3,7 @@
 </h1>
  
 <h4 align="center"> 
-	▶ Class-website ▶
+	📗▶ Class-website ▶📗
 </h4>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 💻 Sobre o projeto
 
-▶ Class website - apresenta as informações sobre um aluno, além de poder redirecionar para todas as redes sociais dele. Além disso, o site conta com um sistema de cadastro de Professores e alunos, afim de ter um melhor controle sobre os alunos e professores da instituição.
+📗▶ Class website - apresenta as informações sobre um aluno, além de poder redirecionar para todas as redes sociais dele. Além disso, o site conta com um sistema de cadastro de Professores e alunos, afim de ter um melhor controle sobre os alunos e professores da instituição.
 
 
 Na aba Sobre:
