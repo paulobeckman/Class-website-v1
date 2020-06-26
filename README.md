@@ -1,5 +1,5 @@
 <h1 align="center">
-    Class-website
+    Class website
 </h1>
  
 <h4 align="center"> 
@@ -78,19 +78,19 @@ Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
 	
  <img alt="Class-website" title="#Class-website" src="./github-assets/projeto5.gif" width="800px">
 
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas1.png" width="450px">
+  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas1.png" width="400px">
 
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas2.png" width="450px">
+  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas2.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas3.png" width="450px">
+  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas3.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas4.png" width="450px">
+  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas4.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas5.png" width="450px">
+  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas5.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas6.png" width="450px">
+  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas6.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas7.png" width="450px">
+  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas7.png" width="400px">
   
 </p>
 
