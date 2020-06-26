@@ -1,0 +1,105 @@
+<div class="item">
+    <div>Avatar URL</div>
+    <div>
+        <input 
+            type="url" 
+            name="avatar_url"
+            placeholder="http://"
+            value="{{teacher.avatar_url}}"
+        >
+    </div>
+</div>
+
+<div class="item">
+    <div>Nome Completo</div>
+    <div>
+        <input 
+            type="text"
+            name="name"
+            placeholder="Nome"
+            value = "{{teacher.name}}"
+        >
+    </div>
+</div>
+
+<div class="item">
+    <div>Data de Nascimento</div>
+    <div>
+        <input 
+            type="date" 
+            name="birth"
+            value = "{{teacher.birth}}"
+        >
+    </div>
+</div>
+
+<div class="item">
+    <div>Grau de Escolaridade</div>
+    <div>
+        <select id="schooling" name="schooling">
+            <option 
+                value="EMC"
+                {% if teacher.schooling == "ESC" %} 
+                    selected 
+                {% endif %}>Ensino Médio Completo
+            </option>
+            <option 
+                value="ESC"
+                {% if teacher.schooling == "ESC" %} 
+                    selected 
+                {% endif %}>Ensino Superior Completo
+            </option>
+            <option 
+                value="M"
+                {% if teacher.schooling == "M" %} 
+                    selected 
+                {% endif %}>Mestrado
+            </option>
+            <option 
+                value="D" 
+                {% if teacher.schooling == "D" %} 
+                    selected 
+                {% endif %} >Doutorado
+            </option>
+        </select>
+        
+    </div>
+</div>
+
+<div class="item">
+    <div>Tipo de Aula</div>
+    <div>
+        <span>  
+            <input 
+                type="radio" 
+                name="gender" 
+                value="P" 
+                {% if teacher.gender == "P" %}
+                    checked
+                {% endif %}>Presencial
+        </span>
+        <span>  
+            <input 
+                type="radio" 
+                name="gender" 
+                value="D" 
+                {% if teacher.gender == "D" %}
+                    checked
+                {% endif %}>À Distancia
+        </span>
+    </div>
+</div>
+
+<div class="item">
+    <div>Área de Atuação</div>
+    <div>
+        <input 
+        type="text"
+        name="matter"
+        placeholder="Informalçoes das matérias lecionadas"
+        value = "{{teacher.matter}}"
+        >
+    </div>
+</div>
+
+<button type="submit">Salvar</button>

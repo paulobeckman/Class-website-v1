@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1553531580-a000ac8df244?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=282&q=80",
+      "name": "Daniel Oliveira",
+      "email": "test@gmail.com",
+      "birth": 991785600000,
+      "schoolYear": "9EF",
+      "workload": "10"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1516992654410-9309d4587e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Paulo Beckman",
+      "birth": 610070400000,
+      "gender": "D",
+      "matter": "matematica, portugues, geografia",
+      "schooling": "M",
+      "create_at": 1593193240499
+    }
+  ]
+}

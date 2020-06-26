@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        
+        {% block head %}
+            <title>Paulo Beckman</title>
+        {% endblock %}
+
+        <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="/styles.css">
+    </head>
+    <body>
+        <header>
+            <div class="links">
+                <a href="/about" >Sobre</a>
+                <a href="/portfolio" >Aulas</a>
+                <a href="/teachers" >Professor</a>
+                <a href="/students" >Aluno</a>
+            </div>
+        </header> 
+             
+        {% block content %}{% endblock%}
+
+    </body>
+
+<script src="/scripts.js"></script>
+
+</html>
