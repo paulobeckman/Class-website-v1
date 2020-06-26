@@ -76,9 +76,9 @@ Projeto desenvolvido no curso **LaunchBase** oferecida pela [Rocketseat](rs).
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="Class-website" title="#Class-website" src="./github-assets/projeto6.1.gif" width="400px">
+ <img alt="Class-website" title="#Class-website" src="./github-assets/projeto6.1.gif" width="800px">
  
- <img alt="Class-website" title="#Class-website" src="./github-assets/projeto6.2.gif" width="400px">
+ <img alt="Class-website" title="#Class-website" src="./github-assets/projeto6.2.gif" width="800px">
 
   <img alt="Class-website" title="#Class-website" src="./github-assets/paginas1.png" width="400px">
 
