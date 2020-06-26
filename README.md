@@ -3,7 +3,7 @@
 </h1>
  
 <h4 align="center"> 
-	🏋‍♂ Class-website 🏋‍♀
+	▶ Class-website ▶
 </h4>
 
 <p align="center">
@@ -30,17 +30,20 @@
 
 ## 💻 Sobre o projeto
 
-🏋‍♂Class website - apresenta as informações sobre um aluno, além de poder redirecionar para todas as redes sociais dele. Além disso, o site conta com um sistema de cadastro de Professores e alunos, afim de ter um melhor controle sobre os alunos e professores da instituição.
+▶ Class website - apresenta as informações sobre um aluno, além de poder redirecionar para todas as redes sociais dele. Além disso, o site conta com um sistema de cadastro de Professores e alunos, afim de ter um melhor controle sobre os alunos e professores da instituição.
 
 
 Na aba Sobre:
  - O usuário poderá ser redirecionado para acessar o GitHub, LinkedIn e Twitter do aluno.
  
  
+ 
+ 
 Na aba Aulas:
 - o aluno tem acesso a seis cards referentes a vídeos do youtube da [Rocketseat](rs);
 - cada card tem uma thumbnail, título, tempo de duração e se o curso e pago ou gratuito;
 - ao clicar em cada card, o usuário irá para uma página dedicada para aquele vídeo escolhido, com url específica. Nessa página o usuário pode assitir o vídeo.
+
 
 
 Na aba Professor:
@@ -53,14 +56,15 @@ Na aba Professor:
    - área de atuação
 
 
+
 Na aba Aluno:
  - Os alunos poderão se cadastrar na plataforma web enviando:
-  - url de uma imagem 
-  - seu nome completo
-  - email
-  - data de nascimento
-  - ano escolar
-  - carga horária semanal
+   - url de uma imagem 
+   - seu nome completo
+   - email
+   - data de nascimento
+   - ano escolar
+   - carga horária semanal
 
 Além de fazer cadastro o sistema permite visualizar os dados, fazer edição e deletar. 
 
