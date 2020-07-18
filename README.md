@@ -7,9 +7,9 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/Class-website?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/Class-website-v1?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/Class-website">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/Class-website-v1">
 
   	
   <a href="https://www.linkedin.com/in/paulobeckman/">
@@ -17,13 +17,13 @@
   </a>
 	
   
-  <a href="https://github.com/paulobeckman/rocketseat-courses/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/Class-website">
+  <a href="https://github.com/paulobeckman/Class-website-v1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman-v1/Class-website-v1">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/paulobeckman/Class-website/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/Class-website?style=social">
+   <a href="https://github.com/paulobeckman/Class-website-v1/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/Class-website-v1?style=social">
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Na aba Aluno:
 
 Além de fazer cadastro o sistema permite visualizar os dados, fazer edição e deletar. 
 
-Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido como desafio no módulo 04 do curso **LaunchBase** oferecida pela [Rocketseat](rs).
 "O [LaunchBase](lb) é um treinamento no formato de bootcamp online que tem duração de 8 semanas. A cada semana os conteúdos são liberados de acordo com um cronograma, guiando o aluno pelas ferramentas e conceitos mais modernos de desenvolvimento que permitirão construir as melhores aplicações e ter acesso às melhores oportunidades como programador." - Rocketseat
 
 
@@ -76,23 +76,23 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="Class-website" title="#Class-website" src="./github-assets/projeto6.1.gif" width="800px">
+ <img alt="Class-website-v1" title="#Class-website" src="./github-assets/projeto6.1.gif" width="800px">
  
- <img alt="Class-website" title="#Class-website" src="./github-assets/projeto6.2.gif" width="800px">
+ <img alt="Class-website-v1" title="#Class-website" src="./github-assets/projeto6.2.gif" width="800px">
 
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas1.png" width="400px">
+  <img alt="Class-website-v1" title="#Class-website" src="./github-assets/paginas1.png" width="400px">
 
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas2.png" width="400px">
+  <img alt="Class-website-v1" title="#Class-website" src="./github-assets/paginas2.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas3.png" width="400px">
+  <img alt="Class-website-v1" title="#Class-website" src="./github-assets/paginas3.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas4.png" width="400px">
+  <img alt="Class-website-v1" title="#Class-website" src="./github-assets/paginas4.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas5.png" width="400px">
+  <img alt="Class-website-v1" title="#Class-website" src="./github-assets/paginas5.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas6.png" width="400px">
+  <img alt="Class-website-v1" title="#Class-website" src="./github-assets/paginas6.png" width="400px">
   
-  <img alt="Class-website" title="#Class-website" src="./github-assets/paginas7.png" width="400px">
+  <img alt="Class-website-v1" title="#Class-website" src="./github-assets/paginas7.png" width="400px">
   
 </p>
 
