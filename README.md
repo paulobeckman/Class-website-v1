@@ -18,7 +18,7 @@
 	
   
   <a href="https://github.com/paulobeckman/Class-website-v1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman-v1/Class-website-v1">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/Class-website-v1">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
