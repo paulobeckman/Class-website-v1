@@ -1,9 +1,9 @@
 <h1 align="center">
-    Class website version 1
+    Class website
 </h1>
  
 <h4 align="center"> 
-	📗▶ Class-website version 1 ▶📗
+	📗▶ Class-website ▶📗
 </h4>
 
 <p align="center">
