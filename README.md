@@ -4,7 +4,7 @@
  
 <h4 align="center"> 
 	📗▶ Class-website ▶📗
-</h4>
+</h4> 
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/Class-website-v1?color=%2304D361">
